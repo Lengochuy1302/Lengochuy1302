@@ -29,7 +29,7 @@ Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thi�
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -37,7 +37,7 @@ Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thi�
 
 <br>
 <p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<img width=100% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 <hr>
 <br>
