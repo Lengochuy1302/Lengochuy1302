@@ -12,7 +12,7 @@
 <img align="right" width=350px src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="400" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Thông tin của tôi**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;**Thông tin của tôi**
 
 Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thiết bị di động tại trường Cao đẳng FPT Polytechnic. Tôi được học về các ngôn ngữ C/C++, Java, HTML, CSS, JavaScrip, ReactNative. Tôi đã xây dựng nhiều dự án trong suốt quá trình học tiêu biểu như phần mềm, website và lập trình thiết bị IOT. Tôi thích học hỏi và xây dựng một cái gì đó mới, hiệu quả, đổi mới và sáng tạo.
 
