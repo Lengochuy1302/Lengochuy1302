@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;**Thông tin của tôi**
 
-Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thiết bị di động tại trường Cao đẳng FPT Polytechnic. Tôi được học về các ngôn ngữ C/C++, Java, HTML, CSS, JavaScrip, ReactNative. Tôi đã xây dựng nhiều dự án trong suốt quá trình học tiêu biểu như phần mềm, website và lập trình thiết bị IOT. Tôi thích học hỏi và xây dựng một cái gì đó mới, hiệu quả, đổi mới và sáng tạo.
+Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thiết bị di động tại trường Cao đẳng FPT Polytechnic. Tôi được học về các ngôn ngữ C/C++, Java, HTML, CSS, JavaScrip, Ruby On Rails, ReactNative, Swift. Tôi đã xây dựng nhiều dự án trong suốt quá trình học tiêu biểu như phần mềm, website và lập trình thiết bị IOT. Tôi thích học hỏi và xây dựng một cái gì đó mới, hiệu quả, đổi mới và sáng tạo.
 
 </br>
 <p align= "center">
@@ -24,10 +24,11 @@ Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thi�
 </br>
 
 - 🔥 Tôi quan tâm đến thiết kế web, phát triển Android và lập trình thiết bị IOT</br>
-- 🌱 Hiện tại tôi đang học ...</br>
-  - Lập trình Raspberry Pi
+- 🌱 Kinh nghiệm hiện tại của tôi ...</br>
+  - Lập trình Raspberry Pi, IOT
   - Lập trình Server cho Android
-  - ReactNative
+  - Lập trình iOS
+  - Lập trình Website
 - 👯 Tôi mong muốn được hợp tác trong các dự án lớn để tiếp thu nhiều kinh nghiệm hơn.
 - ✔ Hỏi tôi về bất cứ điều gì khi bạn gặp rắc rối, tôi sẽ sẵn lòng trợ giúp! 😉<br>
 - 🥳 Tôi rất thích tìm hiểu về các công nghệ mới. Ngoài ra tôi còn thích nghe nhạc 🎵, chơi game 🎮 và thiết kế Teamplate. 
