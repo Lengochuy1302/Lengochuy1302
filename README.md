@@ -23,7 +23,7 @@ Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thi�
 </p>
 </br>
 
-- 🔥 Tôi quan tâm đến thiết kế web, phát triển Android và lập trình thiết bị IOT</br>
+- 🔥 Tôi quan tâm đến thiết kế Website, phát triển Android/iOS và lập trình thiết bị IOT</br>
 - 🌱 Kinh nghiệm hiện tại của tôi ...</br>
   - Lập trình Raspberry Pi, IOT
   - Lập trình Server cho Android
