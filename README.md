@@ -1,7 +1,7 @@
 
  <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F77807&center=true&vCenter=true&width=900&lines=Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%C3%A3+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+trang+Github+c%E1%BB%A7a+t%C3%B4i;T%C3%B4i+l%C3%A0+L%C3%AA+Ng%E1%BB%8Dc+Huy;Sinh+vi%C3%AAn+n%C4%83m+2+tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+FPT+Polytechnic;Chuy%C3%AAn+ng%C3%A0nh+L%E1%BA%ADp+tr%C3%ACnh+m%C3%A1y+t%C3%ADnh+-+Thi%E1%BA%BFt+b%E1%BB%8B+di+%C4%91%E1%BB%99ng)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F77807&center=true&vCenter=true&width=900&lines=Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%C3%A3+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+trang+Github+c%E1%BB%A7a+t%C3%B4i;T%C3%B4i+l%C3%A0+L%C3%AA+Ng%E1%BB%8Dc+Huy;Chuy%C3%AAn+ng%C3%A0nh+L%E1%BA%ADp+tr%C3%ACnh+m%C3%A1y+t%C3%ADnh+-+Thi%E1%BA%BFt+b%E1%BB%8B+di+%C4%91%E1%BB%99ng)
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lengochuy1302&data=followers,repositories,stars,commits)
@@ -34,8 +34,3 @@ Tôi là Lê Ngọc Huy sinh viên chuyên ngành Lập trình máy tính - Thi�
 - 🥳 Tôi rất thích tìm hiểu về các công nghệ mới. Ngoài ra tôi còn thích nghe nhạc 🎵, chơi game 🎮 và thiết kế Teamplate. 
 - 📫 Liên hệ với tôi theo địa chỉ [Lê Ngọc Huy](https://www.facebook.com/profile.php?id=100019732021938)
 
-<div align="center">
-  <a>
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
